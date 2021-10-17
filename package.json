@@ -27,9 +27,18 @@
     ]
   },
   "dependencies": {
+    "@mediapipe/camera_utils": "0.3.1632432234",
+    "@mediapipe/control_utils": "0.6.1629159505",
+    "@mediapipe/drawing_utils": "0.3.1620248257",
+    "@mediapipe/face_mesh": "0.4.1633559619",
+    "@mediapipe/hands": "0.3.1632795355",
+    "@mediapipe/holistic": "0.4.1633559476",
+    "@mediapipe/pose": "0.4.1633558788",
+    "@tensorflow/tfjs": "3.9.0",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-webcam": "6.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "13.2.1",
